@@ -39,9 +39,11 @@ Exercice 2 :
       - Création d'une entiter User : Comment pour l'entiter Task ajouter les composant necessaire a la création d'un user (Id, Username, mot de passe)
 
 Exercice 3 :
+
       - Créer les contrôleurs : Créez les contrôleurs pour les opérations CRUD des tâches. Définissez les méthodes pour les opérations de création,               lecture, mise à jour et suppression des tâches.
       
 Exercice 4 :
+
       - Créer les vues qui vous permete de visualité votre systéme CRUD : Créez les vues en utilisant Twig pour afficher les tâches et les formulaires           associés.
 
 - Aprés chaque ajout d'entiter pour pouvoir update la base de donnée taper la commande : php bin/console make:migration , php bin/console doctrine:migrations:migrate
