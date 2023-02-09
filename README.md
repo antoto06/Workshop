@@ -26,3 +26,8 @@ Pour vous aidez voici les etapes a suivre pour la création de votre projet symf
 - Créer les contrôleurs : Créez les contrôleurs pour les opérations CRUD des tâches. Définissez les méthodes pour les opérations de création, lecture, mise à jour et suppression des tâches.
 
 - Créer les vues qui vous permete de visualité votre systéme CRUD : Créez les vues en utilisant Twig pour afficher les tâches et les formulaires associés.
+
+Pour le lancement de votre serveur en local : 
+- php -S localhost:8000 -t public/
+- Localhost:8000
+
