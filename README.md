@@ -62,8 +62,9 @@ Bonus :
             --> https://getbootstrap.com/
 
 
-#Lancement du projet 
+# Lancement du projet 
 Pour lancer le projet sur votre serveur en local : 
+      
       - php -S localhost:8000 -t public/
       - Localhost:8000
 
