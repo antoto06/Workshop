@@ -1,12 +1,18 @@
 # Workshop
-**Decouverte de PHP symfony**
+Decouverte de PHP symfony
 
-Création de votre propre système de gestion des tâches avec PHP Symfony.
+Dans ce Workshop vous allez apprendre comment créer une todo list en PHP Symfony !
+---> Par définition une to-do list, et une liste de tâches à réaliser <---
 
-**installation des composant requis :
-- PHP (https://www.geeksforgeeks.org/how-to-install-php-on-linux/)
-- Symfony (https://symfony.com/download)
-- Mysql (https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04) Doc fedora (https://tecadmin.net/install-mysql-8-on-fedora/)
+# Prérequis :
+
+Instalation de PHP : https://www.geeksforgeeks.org/how-to-install-php-on-linux
+
+Instalation de Symfony : https://symfony.com/download
+
+Instalation de MySQL : https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04 
+
+Doc fedora : https://tecadmin.net/install-mysql-8-on-fedora
 - Doctrine (composer require symfony/orm-pack)
 
 Créer un nouveau projet Symfony.
