@@ -15,13 +15,19 @@ Installation de MySQL : https://www.digitalocean.com/community/tutorials/how-to-
 
 Installation de Doctrine pour Symfony : composer require symfony/orm-pack)
 
-Pour créer un projet symfony :
+Pour créer un projet en PHP symfony :
       
             composer create-project symfony/"Project Name"
 
 # Exercices :
 
 Exercice 1 :
+
+Exercice 2 :
+
+Exercice 3 :
+
+Exercice 4 :
 
       
 Créer un nouveau projet Symfony.
