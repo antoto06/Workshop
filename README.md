@@ -40,11 +40,11 @@ Exercice 2 :
 
 Exercice 3 :
 
-      - Créer les contrôleurs : Créez les contrôleurs pour les opérations CRUD des tâches. Définissez les méthodes pour les opérations de création,               lecture, mise à jour et suppression des tâches.
+      - Créer les contrôleurs : Créez les contrôleurs pour les opérations CRUD des tâches. Définissez les méthodes pour les opérations de création,       lecture, mise à jour et suppression des tâches.
       
 Exercice 4 :
 
-      - Créer les vues qui vous permete de visualité votre systéme CRUD : Créez les vues en utilisant Twig pour afficher les tâches et les formulaires           associés.
+      - Créer les vues qui vous permete de visualité votre systéme CRUD : Créez les vues en utilisant Twig pour afficher les tâches et les formulaires   associés.
 
 - Aprés chaque ajout d'entiter pour pouvoir update la base de donnée taper la commande : php bin/console make:migration , php bin/console doctrine:migrations:migrate
 
