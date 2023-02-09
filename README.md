@@ -29,28 +29,45 @@ Exercice 1 :
 
 Exercice 2 :
 
-      - Création d'une entiter Task : Pour intéragir avec la database pour la to-do list
+      - Création d'une entité Task : Pour intéragir avec la database pour la to-do list
             -> un nom
             -> une description
             
-      - Création d'une entiter User : Pour intéragir avec la database pour le login/logout
+      - Création d'une entité User : Pour intéragir avec la database pour le login/logout
             -> un username
             -> un password
-      
+            
+       Aprés chaque ajout d'entités, vous devez update la base de donnée.
+       Pour cela taper la commande : php bin/console make:migration , php bin/console doctrine:migrations:migrate
 
 Exercice 3 :
 
-      - 
+      - Création d'un document controleur pour la gestions de ses routes
+      
+      Vous devez implémenter dans ce document 3 fichiers :
+            - un fichier pour lister toutes les taches en cours
+            - un fichier pour login/logout un user
+            - un fichier pour ajouter, éditer, supprimer une tâche
       
 Exercice 4 :
 
-      - Créer les vues qui vous permete de visualité votre systéme CRUD : Créez les vues en utilisant Twig pour afficher les tâches et les formulaires   associés.
+      - Création de vues pour vous permettre de visualiser votre systéme CRUD : 
+            --> Créer des vues en utilisant Twig pour afficher les tâches et les formulaires associés.
+            
+Bonus :
 
-- Aprés chaque ajout d'entiter pour pouvoir update la base de donnée taper la commande : php bin/console make:migration , php bin/console doctrine:migrations:migrate
+      Faites nous un design qui déchire !
+      
+      N'hésiter pas à regarder la documentation Bootstrap !
+            --> https://getbootstrap.com/
 
-Pour le lancement de votre serveur en local : 
-- php -S localhost:8000 -t public/
-- Localhost:8000
+
+#Lancement du projet 
+Pour lancer le projet sur votre serveur en local : 
+      - php -S localhost:8000 -t public/
+      - Localhost:8000
+
+Voici un exemple :
 
 ![Screenshot](CRUD.png)
 
