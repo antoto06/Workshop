@@ -7,16 +7,25 @@ Dans ce Workshop vous allez apprendre comment créer une todo list avec un syste
 
 # Prérequis :
 
-Instalation de PHP : https://www.geeksforgeeks.org/how-to-install-php-on-linux
+Installation de PHP : https://www.geeksforgeeks.org/how-to-install-php-on-linux
 
-Instalation de Symfony : https://symfony.com/download
+Installation de Symfony : https://symfony.com/download
 
-Instalation de MySQL : https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04 
+Installation de MySQL : https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04 
 
-Doc fedora : https://tecadmin.net/install-mysql-8-on-fedora
-- Doctrine (composer require symfony/orm-pack)
+Installation de Doctrine pour Symfony : composer require symfony/orm-pack)
 
+Pour créer un projet symfony :
+      
+            composer create-project symfony/"Project Name"
+
+# Exercices :
+
+Exercice 1 :
+
+      
 Créer un nouveau projet Symfony.
+
 Configurer la base de données.
 Implémenter les opérations CRUD et un systeme de connexion avec un role admin.
 
