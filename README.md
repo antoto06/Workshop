@@ -2,7 +2,8 @@
 Decouverte de PHP symfony
 
 Dans ce Workshop vous allez apprendre comment créer une todo list en PHP Symfony !
----> Par définition une to-do list, et une liste de tâches à réaliser <---
+
+      ---> Par définition une to-do list, et une liste de tâches à réaliser <---
 
 # Prérequis :
 
