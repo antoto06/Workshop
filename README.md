@@ -42,4 +42,6 @@ Pour le lancement de votre serveur en local :
 - php -S localhost:8000 -t public/
 - Localhost:8000
 
+![Screenshot](CRUD.png)
+
 **A vos clavier!**
