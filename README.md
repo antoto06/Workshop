@@ -1,7 +1,6 @@
 # Workshop
-Decouverte de PHP symfony
+Création d'une todo list et d'un système de login/logout en PHP symfony !
 
-Dans ce Workshop vous allez apprendre comment créer une todo list avec un systeme de login/logout en PHP Symfony !
 
       ---> Par définition une to-do list est une liste de tâches à réaliser <---
 
