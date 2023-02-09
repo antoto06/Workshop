@@ -20,14 +20,15 @@ Pour créer un projet en PHP symfony :
             
 Veuiller modifier dans le config/routes.yaml 
       
-      index: path: / 
-      controller: App\Controller\HomeController::index
+      index: 
+            path: / 
+                  controller: App\Controller\HomeController::index
       
 Veuiller modifier dans le config/services.yaml
       
        App\Controller\HomeController:
-       arguments:
-       $twig: '@twig'
+            arguments:
+                  $twig: '@twig'
       
 # Exercices :
 
