@@ -17,7 +17,18 @@ Installation de Doctrine pour Symfony : composer require symfony/orm-pack)
 Pour créer un projet en PHP symfony :
       
             composer create-project symfony/website-skeleton "project_name"
-
+            
+Veuiller modifier dans le config/routes.yaml 
+      
+      index: path: / 
+      controller: App\Controller\HomeController::index
+      
+Veuiller modifier dans le config/services.yaml
+      
+       App\Controller\HomeController:
+       arguments:
+       $twig: '@twig'
+      
 # Exercices :
 
 Exercice 1 :
